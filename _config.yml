@@ -1,0 +1,28 @@
+name: Rovinaccia
+favicon: null
+layout_spectrum: 0.6305401083081961
+typography_spectrum: 0.043514423770830035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10262549854815006
+  lightness: 0.10255005001090467
+  saturation: 0.7249133388977498
+  rhythmicContrast: 0.11334616667591035
+purpose: []
