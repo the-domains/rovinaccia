@@ -1,7 +1,7 @@
 name: Rovinaccia
 favicon: null
-layout_spectrum: 0.6305401083081961
-typography_spectrum: 0.043514423770830035
+layout_spectrum: 1
+typography_spectrum: 0.28725
 cta:
   domain: null
   bucket: null
